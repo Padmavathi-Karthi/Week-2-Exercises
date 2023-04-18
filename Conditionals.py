@@ -1,0 +1,2 @@
+# Consider the following scenario about using if-elif-else statements:
+# Police patrol a specific stretch of dangerous highway and are very particular about speed limits.  The speed limit is 65 miles per hour. Cars going 80 miles per hour or more are given a “Reckless Driving” ticket. Cars going more than 65 miles per hour are given a “Speeding” ticket.  Any cars going less than that are labeled “Safe” in the system.
