@@ -1,0 +1,1 @@
+# The “complementary_color” function receives a primary color name in all lower case, then prints its complementary color. Currently, the function only supports the primary colors of red, yellow, and blue. It returns "unknown" for all other colors or if the word has any uppercase characters.
